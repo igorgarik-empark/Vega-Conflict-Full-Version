@@ -258,4 +258,4 @@ This repository serves as the official landing page for Vega Conflict. The softw
 **Get the most recent version of Vega Conflict today!**
 
 ---
-**Last updated:** 2026-10-27 11:27:20 UTC
+**Last updated:** 2026-10-27 17:16:36 UTC
